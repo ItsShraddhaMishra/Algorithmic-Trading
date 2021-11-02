@@ -7,6 +7,4 @@
 3. Market Analysis
 4. Stock Management
 5. Investment Optimization
-6. Quantum Algorithms
-7. Quantum MachinE lEARNING
-8. Monte Carlo Simulations
+6. Monte Carlo Simulations
